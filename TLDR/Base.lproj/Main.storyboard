@@ -21,13 +21,13 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" text="Enter Text Here" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="RBD-Fq-EgO">
                                 <rect key="frame" x="20" y="94" width="560" height="221"/>
                                 <animations/>
-                                <color key="backgroundColor" red="0.49155974354180137" green="0.14455054629027569" blue="0.60988121097575765" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.49019607843137253" green="0.14509803921568626" blue="0.61176470588235299" alpha="1" colorSpace="calibratedRGB"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="18"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K7z-7E-j38">
-                                <rect key="frame" x="267" y="332" width="67" height="35"/>
+                                <rect key="frame" x="264" y="329" width="74" height="38"/>
                                 <animations/>
                                 <color key="backgroundColor" red="0.49155974349999998" green="0.1445505463" blue="0.60988121100000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleTitle2"/>
